@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Assets/Scripts/CountingTimer.cs" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/Assets/Scripts/CountingTimerHihat.cs" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/Assets/Scripts/CountingTimerKick.cs" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/Assets/Scripts/CountingTimerMany.cs" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/Assets/Scripts/CountingTimerSnare.cs" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/Assets/Scripts/PlayerMoveTranslate.cs" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/Assets/Scripts/SoundOnCollision.cs" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/Assets/Scripts/SpaceshipControl.cs" charset="windows-1251" />
+  </component>
+</project>
